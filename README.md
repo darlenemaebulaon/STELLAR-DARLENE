@@ -1,4 +1,4 @@
-# GasoLinx PH
+<img width="1920" height="941" alt="image" src="https://github.com/user-attachments/assets/e52d4499-6b45-4bd4-a0ce-cddd1c99a3c6" /># GasoLinx PH
 DeCentralized Wholesale Crowdsourced Fuel Purchasing for Independent Gas Stations in the Philippines.
 
 ## Problem & Solution
@@ -8,6 +8,9 @@ Independent provincial gas stations in the Philippines face extreme capital shor
 *   **Day 1-2:** Core Soroban Escrow Strategy Architecture and Unit Testing completion.
 *   **Day 3-4:** Frontend interface development & TypeScript SDK bindings integration.
 *   **Day 5:** Live Stellar Testnet integration validation and Demo delivery pitch preparation.
+
+## Contract ID
+CCCEKJEPEW5GDPPJ2MPH745ZDTGOOL2BJEIIJHLFQENOTBXMTJENV46M
 
 ## Stellar Features Used
 *   Soroban Native Smart Contracts
